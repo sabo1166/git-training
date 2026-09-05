@@ -1,0 +1,1 @@
+This repository provides a simple Git training project for practicing essential version-control workflows. It includes a basic JavaScript application that displays a greeting in the browser. Use this project to learn commits, branches, merging, reverting changes, viewing history, resolving conflicts, and collaborating with Git and GitHub through practical exercises.
